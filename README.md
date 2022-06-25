@@ -1,9 +1,9 @@
 # Bank-Loan-Approval
 Classification/Prediction
 
-Introduction: This project involves solving a binary classification machine learning problem in the Telecommunication industry.
+Introduction: This project involves solving a binary classification machine learning problem in the Banking & Finance industry.
 
-Aim: The aim of this project is to make accurate predictions from historical data in regards to whether a Telecommunication customer will churn or not.
+Aim: The aim of this project is to make accurate predictions from historical data in regards to whether a customer loan application will be approved or not.
 
 Methodology: While the fine details of the methodology followed in this project will be elaborated further in the relevant sections to come, it is to be mentioned that 16 machine learning models have been implemented, compared, and contrasted to identify the best performing one.
 
